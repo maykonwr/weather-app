@@ -1,5 +1,4 @@
-## 📌 Nome do Projeto
-**weather-app**
+## 📌 weather-app
 
 ## 🌤️ Descrição
 Aplicação desenvolvida com **PHP + Laravel** que permite consultar informações climáticas de cidades brasileiras utilizando a **API do OpenWeatherMap**.
