@@ -1,4 +1,4 @@
-## 📌 weather-app
+## 📌 Weather app
 
 ## 🌤️ Descrição
 Aplicação desenvolvida com **PHP + Laravel** que permite consultar informações climáticas de cidades brasileiras utilizando a **API do OpenWeatherMap**.
