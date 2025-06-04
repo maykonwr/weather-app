@@ -26,19 +26,16 @@ Aplicação desenvolvida com **PHP + Laravel** que permite consultar informaçõ
 ## ▶️ Como rodar
 
 1. Clone o repositório ou copie os arquivos do projeto.
-2. Renomeie o arquivo *.env.example* para apenas *.env*
+2. Renomeie o arquivo **.env.example** para apenas **.env**
 3. digite o seguinte comando:"
     ```bash
     cd maykon-weather-app
-    ```bash
 4. Instale as dependências com:
     ```bash
    composer install
-    ```bash
 5. Execute o comando abaixo para iniciar o projeto:
     ```bash
     php artisan serve
-    ```bash
 6. Acesse no navegador:
 
     http://localhost:8000
